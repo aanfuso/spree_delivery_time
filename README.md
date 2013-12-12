@@ -15,8 +15,7 @@ Installing
 
 Add the gem to your Gemfile
 
-    $ gem 'spree_delivery_date', github: 'noviggo/spree_delivery_time',
-branch: '1-3-stable'
+    $ gem 'spree_delivery_date', github: 'noviggo/spree_delivery_time', branch: '1-3-stable'
 
 bundle
 

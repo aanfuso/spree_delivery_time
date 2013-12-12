@@ -1,6 +1,6 @@
-<dt><%= t(:start_delivery_time) %>:</dt>
+<dt><%= t(:delivery_time) %>:</dt>
 <% if @order.start_delivery_time != nil %>
-  <dd id='delivery_time'><%= @order.start_delivery_time %></dd>
+  <dd id='delivery_time'><%= @order.delivery_time %></dd>
 <% else %>
   <dd id='delivery_time'>Unknown</dd>
 <% end %>

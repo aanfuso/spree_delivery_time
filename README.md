@@ -15,7 +15,7 @@ Installing
 
 Add the gem to your Gemfile
 
-    $ gem 'spree_delivery_date', github: 'noviggo/spree_delivery_time', branch: '1-3-stable'
+    $ gem 'spree_delivery_date', github: 'aanfuso/spree_delivery_time', branch: '1-3-stable'
 
 bundle
 
@@ -25,5 +25,5 @@ and run
 
     $ rails g spree_delivery_date:install
 
-to install and (be asken to) run the migrations. This migration simply
+to install and run the migrations. This migration simply
 adds the start_delivery_time and end_delivery_time columns to Spree::Order.

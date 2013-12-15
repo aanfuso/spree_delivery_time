@@ -14,7 +14,7 @@ Spree::Order.class_eval do
   def delivery_time_specific_validation
     if start_delivery_time && end_delivery_time && ['payment', 'confirm', 'complete'].include?(state)
       if end_delivery_time <= start_delivery_time
-        self.errors.add(:start_delivery_time, "Tiene que ser anterior a la hora final de entrega.")
+        self.errors.add(:start_delivery_time, I18n.locale)
       end
     end
   end

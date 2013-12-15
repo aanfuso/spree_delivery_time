@@ -1,0 +1,17 @@
+en:
+  activerecord:
+    attributes:
+      spree/order:
+        start_delivery_time: Start delivery time
+        end_delivery_time: End delivery time
+    errors:
+      models:
+        spree/order:
+          attributes:
+            start_delivery_time:
+              en:  must be before end delivery time
+  helpers:
+    label:
+      order:
+        start_delivery_time: Start delivery time
+        end_delivery_time: End delivery time

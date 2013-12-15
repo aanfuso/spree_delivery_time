@@ -2,6 +2,7 @@ en:
   activerecord:
     attributes:
       spree/order:
+        delivery_time: Delivery Time
         start_delivery_time: Start delivery time
         end_delivery_time: End delivery time
     errors:
@@ -20,3 +21,4 @@ en:
       delivery:
         spree_delivery_time:
           title: Delivery Time Gap
+  delivery_time: Delivery Time

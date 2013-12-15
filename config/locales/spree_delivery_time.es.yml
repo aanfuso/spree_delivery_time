@@ -2,6 +2,7 @@ es:
   activerecord:
     attributes:
       spree/order:
+        delivery_time: Horario de entrega
         start_delivery_time: Horario inicial de entrega
         end_delivery_time: Horario final de entrega
     errors:
@@ -19,4 +20,5 @@ es:
     checkout:
       delivery:
         spree_delivery_time:
-          title: 'Franja horaria de entrega'
+          title: Franja horario de entrega
+  delivery_time: Horario de entrega

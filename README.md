@@ -1,8 +1,8 @@
 Spree Delivery Time
 =======
 
+[![Gem Version](https://badge.fury.io/rb/spree_delivery_time.png)](http://badge.fury.io/rb/spree_delivery_time)
 [![Code Climate](https://codeclimate.com/github/aanfuso/spree_delivery_time.png)](https://codeclimate.com/github/aanfuso/spree_delivery_time)
-
 
 Requires user to enter a delivery time during checkout (delivery
 section)

@@ -6,3 +6,7 @@
 
 * en and es locales
 * Views cleanup
+
+## v0.2.1
+
+* Locales fix

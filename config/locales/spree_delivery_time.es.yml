@@ -20,5 +20,5 @@ es:
     checkout:
       delivery:
         spree_delivery_time:
-          title: Franja horario de entrega
+          title: Franja horaria de entrega
   delivery_time: Horario de entrega

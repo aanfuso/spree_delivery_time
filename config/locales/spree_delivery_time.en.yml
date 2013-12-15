@@ -15,3 +15,8 @@ en:
       order:
         start_delivery_time: Start delivery time
         end_delivery_time: End delivery time
+  spree:
+    checkout:
+      delivery:
+        spree_delivery_time:
+          title: Delivery Time Gap

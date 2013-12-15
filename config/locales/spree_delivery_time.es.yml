@@ -15,3 +15,8 @@ es:
       order:
         start_delivery_time: Horario inicial de entrega
         end_delivery_time: Horario final de entrega
+  spree:
+    checkout:
+      delivery:
+        spree_delivery_time:
+          title: 'Franja horaria de entrega'

@@ -10,3 +10,7 @@
 ## v0.2.1
 
 * Locales fix
+
+## v0.2.2
+
+* Locales fix

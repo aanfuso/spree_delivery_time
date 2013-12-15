@@ -27,3 +27,6 @@ and run
 
 to install and run the migrations. This migration simply
 adds the start_delivery_time and end_delivery_time columns to Spree::Order.
+
+
+Code improvements are welcome!

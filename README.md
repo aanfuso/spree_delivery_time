@@ -1,5 +1,8 @@
 Spree Delivery Time
-=================
+=======
+
+[![Code Climate](https://codeclimate.com/github/aanfuso/spree_delivery_time.png)](https://codeclimate.com/github/aanfuso/spree_delivery_time)
+
 
 Requires user to enter a delivery time during checkout (delivery
 section)
@@ -15,7 +18,7 @@ Installing
 
 Add the gem to your Gemfile
 
-    $ gem 'spree_delivery_date', branch: '1-3-stable'
+    $ gem 'spree_delivery_date'
 
 bundle
 

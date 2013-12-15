@@ -1,6 +1,6 @@
 <br />
-<legend><%= t('.spree_delivery_time.title') %></legend>
-<p id="delivery_time">
+<div id="delivery_time">
+  <legend><%= t('.spree_delivery_time.title') %></legend>
   <div class="field">
     <%= form.label :start_delivery_time %><br />
     <%= form.time_select :start_delivery_time %>
@@ -9,4 +9,4 @@
     <%= form.label :end_delivery_time %><br />
     <%= form.time_select :end_delivery_time %>
   </div>
-</p>
+</div>
